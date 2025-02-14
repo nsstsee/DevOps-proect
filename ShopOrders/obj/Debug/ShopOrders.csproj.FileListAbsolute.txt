@@ -1,0 +1,74 @@
+D:\repos\ShopOrders\ShopOrders\bin\Debug\ShopOrders.exe.config
+D:\repos\ShopOrders\ShopOrders\bin\Debug\ShopOrders.exe
+D:\repos\ShopOrders\ShopOrders\bin\Debug\ShopOrders.pdb
+D:\repos\ShopOrders\ShopOrders\bin\Debug\EntityFramework.dll
+D:\repos\ShopOrders\ShopOrders\bin\Debug\EntityFramework.SqlServer.dll
+D:\repos\ShopOrders\ShopOrders\bin\Debug\EntityFramework.xml
+D:\repos\ShopOrders\ShopOrders\bin\Debug\EntityFramework.SqlServer.xml
+D:\repos\ShopOrders\ShopOrders\obj\Debug\ShopOrders.csproj.AssemblyReference.cache
+D:\repos\ShopOrders\ShopOrders\obj\Debug\ShopOrders.csproj.SuggestedBindingRedirects.cache
+D:\repos\ShopOrders\ShopOrders\obj\Debug\ShopOrders.Form1.resources
+D:\repos\ShopOrders\ShopOrders\obj\Debug\ShopOrders.Properties.Resources.resources
+D:\repos\ShopOrders\ShopOrders\obj\Debug\ShopOrders.csproj.GenerateResource.cache
+D:\repos\ShopOrders\ShopOrders\obj\Debug\ShopOrders.csproj.CoreCompileInputs.cache
+D:\repos\ShopOrders\ShopOrders\obj\Debug\ShopOrders.csproj.CopyComplete
+D:\repos\ShopOrders\ShopOrders\obj\Debug\ShopOrders.exe
+D:\repos\ShopOrders\ShopOrders\obj\Debug\ShopOrders.pdb
+D:\repos\ShopOrders\ShopOrders\obj\Debug\ShopOrders.Forms.FormTovar.resources
+D:\repos\ShopOrders\ShopOrders\obj\Debug\ShopOrders.Auth.resources
+D:\repos\ShopOrders\ShopOrders\obj\Debug\ShopOrders.Forms.FormOrder.resources
+D:\repos\ShopOrders\ShopOrders\bin\Debug\EPPlus.dll
+D:\repos\ShopOrders\ShopOrders\bin\Debug\EPPlus.Interfaces.dll
+D:\repos\ShopOrders\ShopOrders\bin\Debug\EPPlus.System.Drawing.dll
+D:\repos\ShopOrders\ShopOrders\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\repos\ShopOrders\ShopOrders\bin\Debug\EPPlus.xml
+D:\repos\ShopOrders\ShopOrders\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\79040\Desktop\ShopOrders\ShopOrders\bin\Debug\ShopOrders.exe.config
+C:\Users\79040\Desktop\ShopOrders\ShopOrders\bin\Debug\ShopOrders.exe
+C:\Users\79040\Desktop\ShopOrders\ShopOrders\bin\Debug\ShopOrders.pdb
+C:\Users\79040\Desktop\ShopOrders\ShopOrders\bin\Debug\EntityFramework.dll
+C:\Users\79040\Desktop\ShopOrders\ShopOrders\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\79040\Desktop\ShopOrders\ShopOrders\bin\Debug\EPPlus.dll
+C:\Users\79040\Desktop\ShopOrders\ShopOrders\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\79040\Desktop\ShopOrders\ShopOrders\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\79040\Desktop\ShopOrders\ShopOrders\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\79040\Desktop\ShopOrders\ShopOrders\bin\Debug\EntityFramework.xml
+C:\Users\79040\Desktop\ShopOrders\ShopOrders\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\79040\Desktop\ShopOrders\ShopOrders\bin\Debug\EPPlus.xml
+C:\Users\79040\Desktop\ShopOrders\ShopOrders\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\79040\Desktop\ShopOrders\ShopOrders\obj\Debug\ShopOrders.csprojAssemblyReference.cache
+C:\Users\79040\Desktop\ShopOrders\ShopOrders\obj\Debug\ShopOrders.Auth.resources
+C:\Users\79040\Desktop\ShopOrders\ShopOrders\obj\Debug\ShopOrders.Form1.resources
+C:\Users\79040\Desktop\ShopOrders\ShopOrders\obj\Debug\ShopOrders.Forms.FormOrder.resources
+C:\Users\79040\Desktop\ShopOrders\ShopOrders\obj\Debug\ShopOrders.Forms.FormTovar.resources
+C:\Users\79040\Desktop\ShopOrders\ShopOrders\obj\Debug\ShopOrders.Properties.Resources.resources
+C:\Users\79040\Desktop\ShopOrders\ShopOrders\obj\Debug\ShopOrders.csproj.GenerateResource.cache
+C:\Users\79040\Desktop\ShopOrders\ShopOrders\obj\Debug\ShopOrders.csproj.CoreCompileInputs.cache
+C:\Users\79040\Desktop\ShopOrders\ShopOrders\obj\Debug\ShopOrders.csproj.CopyComplete
+C:\Users\79040\Desktop\ShopOrders\ShopOrders\obj\Debug\ShopOrders.exe
+C:\Users\79040\Desktop\ShopOrders\ShopOrders\obj\Debug\ShopOrders.pdb
+C:\Users\Nastya\OneDrive\Рабочий стол\курсрвая работа\ShopOrders\ShopOrders\bin\Debug\ShopOrders.exe.config
+C:\Users\Nastya\OneDrive\Рабочий стол\курсрвая работа\ShopOrders\ShopOrders\bin\Debug\ShopOrders.exe
+C:\Users\Nastya\OneDrive\Рабочий стол\курсрвая работа\ShopOrders\ShopOrders\bin\Debug\ShopOrders.pdb
+C:\Users\Nastya\OneDrive\Рабочий стол\курсрвая работа\ShopOrders\ShopOrders\bin\Debug\EntityFramework.dll
+C:\Users\Nastya\OneDrive\Рабочий стол\курсрвая работа\ShopOrders\ShopOrders\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Nastya\OneDrive\Рабочий стол\курсрвая работа\ShopOrders\ShopOrders\bin\Debug\EPPlus.dll
+C:\Users\Nastya\OneDrive\Рабочий стол\курсрвая работа\ShopOrders\ShopOrders\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\Nastya\OneDrive\Рабочий стол\курсрвая работа\ShopOrders\ShopOrders\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\Nastya\OneDrive\Рабочий стол\курсрвая работа\ShopOrders\ShopOrders\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\Nastya\OneDrive\Рабочий стол\курсрвая работа\ShopOrders\ShopOrders\bin\Debug\EntityFramework.xml
+C:\Users\Nastya\OneDrive\Рабочий стол\курсрвая работа\ShopOrders\ShopOrders\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Nastya\OneDrive\Рабочий стол\курсрвая работа\ShopOrders\ShopOrders\bin\Debug\EPPlus.xml
+C:\Users\Nastya\OneDrive\Рабочий стол\курсрвая работа\ShopOrders\ShopOrders\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\Nastya\OneDrive\Рабочий стол\курсрвая работа\ShopOrders\ShopOrders\obj\Debug\ShopOrders.csproj.AssemblyReference.cache
+C:\Users\Nastya\OneDrive\Рабочий стол\курсрвая работа\ShopOrders\ShopOrders\obj\Debug\ShopOrders.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nastya\OneDrive\Рабочий стол\курсрвая работа\ShopOrders\ShopOrders\obj\Debug\ShopOrders.Form1.resources
+C:\Users\Nastya\OneDrive\Рабочий стол\курсрвая работа\ShopOrders\ShopOrders\obj\Debug\ShopOrders.Forms.FormOrder.resources
+C:\Users\Nastya\OneDrive\Рабочий стол\курсрвая работа\ShopOrders\ShopOrders\obj\Debug\ShopOrders.Forms.FormTovar.resources
+C:\Users\Nastya\OneDrive\Рабочий стол\курсрвая работа\ShopOrders\ShopOrders\obj\Debug\ShopOrders.Properties.Resources.resources
+C:\Users\Nastya\OneDrive\Рабочий стол\курсрвая работа\ShopOrders\ShopOrders\obj\Debug\ShopOrders.csproj.GenerateResource.cache
+C:\Users\Nastya\OneDrive\Рабочий стол\курсрвая работа\ShopOrders\ShopOrders\obj\Debug\ShopOrders.csproj.CoreCompileInputs.cache
+C:\Users\Nastya\OneDrive\Рабочий стол\курсрвая работа\ShopOrders\ShopOrders\obj\Debug\ShopOrders.csproj.CopyComplete
+C:\Users\Nastya\OneDrive\Рабочий стол\курсрвая работа\ShopOrders\ShopOrders\obj\Debug\ShopOrders.exe
+C:\Users\Nastya\OneDrive\Рабочий стол\курсрвая работа\ShopOrders\ShopOrders\obj\Debug\ShopOrders.pdb
+C:\Users\Nastya\OneDrive\Рабочий стол\курсрвая работа\ShopOrders\ShopOrders\obj\Debug\ShopOrders.Auth.resources
